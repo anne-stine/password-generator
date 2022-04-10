@@ -1,4 +1,4 @@
-#Requirements
+# Requirements
 
 - [x] Array to hold all possible chars
 - [x] Button to generate 4 random password options
